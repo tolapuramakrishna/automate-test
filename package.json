@@ -1,0 +1,22 @@
+{
+  "name": "automate-test",
+  "version": "1.0.0",
+  "description": "dictionary using wordnik",
+  "main": "dict.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tolapuramakrishna/automate-test.git"
+  },
+  "author": "RK",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tolapuramakrishna/automate-test/issues"
+  },
+  "homepage": "https://github.com/tolapuramakrishna/automate-test#readme",
+  "dependencies": {
+    "request": "^2.88.0"
+  }
+}
